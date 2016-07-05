@@ -1,0 +1,6 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="layout_width">38dp</dimen>
+    <dimen name="paddingRight">14dp</dimen>
+    <dimen name="paddingLeft">14dp</dimen>
+</resources>
